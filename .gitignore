@@ -1,0 +1,4 @@
+_cache/
+.stack-work/
+personal.cabal
+_site/
